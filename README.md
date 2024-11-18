@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-hidalgo-cenalmor/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/IvanHCenalmor)
+[![Send message on Zulip](https://img.shields.io/badge/Zulip-Send_message-brightgreen.svg)]([https://chat.zulip.org](https://imagesc.zulipchat.com/#narrow/dm/622897-Iv%C3%A1n-Hidalgo))
 
 Visit my [webpage](https://ivanhcenalmor.github.io./).
 
